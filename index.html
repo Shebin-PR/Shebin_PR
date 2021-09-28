@@ -516,7 +516,7 @@
                 <p style="color: red;" id="error1"></p>
               </div>
               <div class="col-12 mx-auto">
-                <input type="tel" placeholder="Phone" name="phone" oninput="this.value=this.value.replace(/[^\d]/,'')" class="form-control border-0 shadow-sm" id="phone">
+                <input type="tel" placeholder="Phone" name="phone" oninput="this.value=this.value.replace(/[^\d]/,'d')" class="form-control border-0 shadow-sm" id="phone">
                 <p style="color: red;" id="error3"></p>
               </div>
                 <div class="col-12 mx-auto" >
@@ -573,7 +573,7 @@
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/typed.js/typed.min.js"></script>
@@ -594,11 +594,11 @@
 <script>
 
      //----------------------Form validation-------------------------------------//
-        
-   let checkname = false;
-   let checkemail = false;
-   let checkphone = false;
-   let checkmessage = false; 
+      
+    let checkname = false;
+    let checkemail = false;
+    let checkphone = false;
+    let checkmessage = false; 
 
 
 
