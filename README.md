@@ -19,14 +19,6 @@
 
 <br />
 
-<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me -->
-<!-- <p align="center">
-	<a href="mailto:shebinpr126@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wa.me/917559074583"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/shebin-pr-7816631b4/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>	
-</p>
- -->
-
 ### Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -34,6 +26,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 ## 📊 Github Stats
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shebin-PR&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shebin-PR&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Shebin PR" height="192px"/>
+  <br/>
+
+  </p>
+
+----
+
+<br/>
 
 [website]: https://shebin-pr.github.io/Shebin-PR/
 [twitter]: https://twitter.com/PrShebin
